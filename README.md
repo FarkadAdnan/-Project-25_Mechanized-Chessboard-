@@ -108,3 +108,8 @@ Bolting :
 # 3D design of the general structure
 https://www.thingiverse.com/thing:5395942/files
 
+# Core XY
+![1_img14](https://user-images.githubusercontent.com/35774039/170605331-2bbf06c1-792f-4818-b1c6-6e0b5bbf9049.jpg)
+![corexy-compare](https://user-images.githubusercontent.com/35774039/170605381-1d2aee46-94fa-494d-80fe-c5e5e3ec6923.jpg)
+
+
