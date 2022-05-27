@@ -35,6 +35,8 @@ Many people think that chess is a game for those who are naturally intelligent. 
 # الهيكل الداخلي للشطرنج
 ![26](https://user-images.githubusercontent.com/35774039/170603456-84a15cf0-0b5a-462a-b8bf-a7ba5f0afa6d.JPG)
 # الادوات المستخدمة
+```
+
 XY table :
 
 2 x V slot 20x20 linear rail, Length = 345 mm
@@ -99,6 +101,7 @@ Bolting :
 1 x Hex. Socket Head Cap Screw - M4 x 15 mm
 4 x Slotted Countersunk Head Screw - M5 x 20 mm
 4 x Nut - M5
+```
 
 
 
